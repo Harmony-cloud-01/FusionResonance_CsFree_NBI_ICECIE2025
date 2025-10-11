@@ -39,7 +39,7 @@ If you use this code, please cite:
 
 P. D. Markov, “Enhancing Fusion Neutral Beam Injection Efficiency with a Caesium-Free Magnetic Filter,”
 IEEE ICECIE 2025.
-DOI: [ DOI: 10.5281/zenodo.17317510 ]
+DOI: 10.5281/zenodo.17317510
 
 ⸻
 
