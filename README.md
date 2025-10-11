@@ -35,6 +35,8 @@ python simulation/yield_distribution_plot.py
 
 Citation
 
+If you use this code, please cite:
+
 P. D. Markov, “Enhancing Fusion Neutral Beam Injection Efficiency with a Caesium-Free Magnetic Filter,”
 IEEE ICECIE 2025.
 DOI: [Zenodo link once available]
