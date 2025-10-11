@@ -1,1 +1,14 @@
----
+{
+    "C": 0.87,
+    "n_Hm_ne": 0.1,
+    "B_range_T": [
+        0.2,
+        5.0
+    ],
+    "P_input_range_kW": [
+        5,
+        50
+    ],
+    "resolution": 50,
+    "notes": "Parameters correspond to Eq. (1) from ICECIE 2025 paper."
+}
