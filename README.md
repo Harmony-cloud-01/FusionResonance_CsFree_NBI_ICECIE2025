@@ -30,3 +30,31 @@ The project demonstrates a 14–16 % efficiency improvement in neutral beam inje
 pip install numpy matplotlib scipy
 python simulation/fusion_filter_sim.py
 python simulation/yield_distribution_plot.py
+
+---
+
+Citation
+
+P. D. Markov, “Enhancing Fusion Neutral Beam Injection Efficiency with a Caesium-Free Magnetic Filter,”
+IEEE ICECIE 2025.
+DOI: [Zenodo link once available]
+
+⸻
+
+License
+
+This work is released under the Creative Commons Attribution 4.0 International (CC BY 4.0) license.
+You may share and adapt the material for any purpose, provided appropriate credit is given.
+
+⸻
+
+Acknowledgment
+
+This research was conducted independently by the Harmony Research Initiative (Australia) and acknowledges the technical heritage of Stuart J. Nulty (ANU 2018) in magnetically enhanced plasma sources.
+
+⸻
+
+Contact
+
+📧 paul@harmonyonline.org
+🌐 https://harmonyonline.org
